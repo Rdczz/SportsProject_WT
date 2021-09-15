@@ -25,7 +25,7 @@
     color: #000;
 }
 
-.active {
+#active {
     border-bottom: #fff 3px solid;
     padding: 5px;
 }
@@ -52,4 +52,11 @@
 
 #title {
     color: #000;
+}
+
+
+/* carousel  */
+
+#carousel {
+    height:
 }
