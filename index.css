@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Righteous&family=Russo+One&display=swap');
+.jumbotron {
+    padding: 30px;
+    padding-bottom: 20px;
+    background-color: cadetblue;
+}
+
+
+/* custom navbar */
+
+.navbar-custom {
+    background-color: rgb(32, 100, 102);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #fff;
+}
+
+.navbar-nav a {
+    color: #fff;
+}
+
+.dropdown-item {
+    color: #000;
+}
+
+.active {
+    border-bottom: #fff 3px solid;
+    padding: 5px;
+}
+
+.nav-link:hover {
+    border-bottom: #fff solid 3px;
+    transition: .3s;
+    padding: 5px;
+}
+
+
+/* custom navbar toggler */
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255, 255, 255);
+}
+
+
+/* custom navbar close */
+
+#title {
+    color: #000;
+}
