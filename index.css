@@ -2,14 +2,14 @@
 .jumbotron {
     padding: 30px;
     padding-bottom: 20px;
-    background-color: cadetblue;
+    background: rgb(21, 98, 167);
 }
 
 
 /* custom navbar */
 
 .navbar-custom {
-    background-color: rgb(32, 100, 102);
+    background: radial-gradient(circle, rgba(21, 98, 167, 1) 0%, rgb(40, 74, 112) 100%);
 }
 
 .navbar-custom .navbar-brand,
